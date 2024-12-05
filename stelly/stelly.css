@@ -1,4 +1,58 @@
 #imagem{
-    width: 1999px;   
+    width: 100%;   
     height: 350px;
+}
+
+#descriacao{
+   width: 800px;
+}
+
+#perfil{
+    width: 350px;
+    height: 350px;
+    border: 2px solid rgb(0, 10, 102);
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+#secao-apresentacao{
+    display: flex;
+    align-items: center;
+    gap: 300px;
+}
+
+.boxtexto {
+    margin-left: 50px;
+}
+
+.imagens{
+    width: 249px;
+    height: 207px;
+}
+
+.secao-img{
+background-color: black;
+width: 70%;
+padding: 20px;
+}
+
+.roda-pé{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    margin-top: 200px;
+    color: aliceblue;
+    
+
+
+}
+
+.secao-fotos{
+    margin-left: 50px;
+}
+
+.roda-pé-nome{
+    margin-top: 20px;
+    text-align: center;
+
 }
